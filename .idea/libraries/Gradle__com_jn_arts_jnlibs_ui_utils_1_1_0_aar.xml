@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jn.arts.jnlibs:ui-utils:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5dd1f2eca3cea979894428586591ad41/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5dd1f2eca3cea979894428586591ad41/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jn.arts.jnlibs/ui-utils/1.1.0/2c4b044db9194108ffcfe45ea1479b9214dc1062/ui-utils-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
